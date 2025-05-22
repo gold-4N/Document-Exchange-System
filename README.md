@@ -33,8 +33,9 @@
 
 1. Run the file named key_generate.py with the following command:
 
+```sh
     python key_generate.py
-
+```
 Certificates will be saved in the certs/ folder.
 
 =======================
@@ -44,8 +45,9 @@ Certificates will be saved in the certs/ folder.
 =======================
 
 Run the receiver:
+```sh
     python receiver.py
-
+```
 =======================
 
 📤 Run SEG Sender
@@ -70,8 +72,9 @@ Run the receiver:
 --------------------------------------------------
 
 2. Run the sender:
+```sh
     python sender.py
-
+```
 =======================
 
 📂 Output
