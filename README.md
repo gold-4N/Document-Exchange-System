@@ -54,6 +54,8 @@ Run the receiver:
 1. Create an example XML file named sample_document.xml:
 
 --------------------------------------------------
+
+```xml
 <CriticalDocument id="doc123">
   <SenderID>MINISTRY 1_SEG01</SenderID>
   <ReceiverID>MINISTRY 2_SEG01</ReceiverID>
@@ -63,6 +65,8 @@ Run the receiver:
     <Instructions>Deliver by 0300.</Instructions>
   </Payload>
 </CriticalDocument>
+```
+
 --------------------------------------------------
 
 2. Run the sender:
